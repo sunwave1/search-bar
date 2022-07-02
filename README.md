@@ -1,4 +1,4 @@
-# learnvue3
+# search product
 
 ## Project setup
 ```
